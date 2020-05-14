@@ -1,0 +1,726 @@
+Boisko do gry jest prostok¹tem o d³ugoœci ___ m i szerokoœci 20 m, sk³adaj¹cym siê z dwóch pól bramkowych (zobacz 1:4 i 6) oraz pola gry&
+50&
+30&
+20&
+40&#
+Wokól boiska powinna byæ strefa bezpieczeñstwa o szerokoœci co najmniej ___ metra wzd³u¿ linii bocznych i 2 metrów za liniami bramkowymi i koñcowymi.&
+0,5&
+1&
+3&
+4&#
+Warunki panuj¹ce na boisku ___ byæ zmienione w trakcie meczu w sposób przynosz¹cy korzyœæ jednej z dru¿yn.&
+mog¹&
+nie mog¹&
+mog¹ za zgod¹ sedziów&
+mog¹ za zgod¹ delegata ZPRP&#
+Bramki  s¹ ustawione na ___ obu linii koñcowych.&
+boku&
+koñcu&
+œrodku&
+skraju&#
+Wymiary w œwietle bramki wynosz¹: wysokoœæ ___ metry/ów i szerokoœæ 3 metry.&
+5&
+3&
+4&
+2&#
+S³upki i poprzeczki bramki maj¹ przekrój kwadratu o boku ___ cm i z trzech stron widocznych z boiska musz¹ byæ pomalowane w poprzeczne pasy w dwóch kontrastowych kolorach, rózniacych siê jednoczeœnie w wyraŸny sposób od koloru pod³o¿a.&
+4&
+5&
+7&
+8&#
+Naprzeciwko ka¿dej ___ znajduje siê pole bramkowe.&
+³awki&
+lini bocznej&
+lini koñcowej&
+bramki&#
+Pole bramkowe tworzy siê przez zakreœlenie od tylnych, wewnêtrznych krawêdzi slupków bramek dwóch luków o promieniu ___ m, ka¿dy o d³ugoœci 1/4 obwodu ko³a.&
+4&
+5&
+6&
+8&#
+Linie rzutów wolnych (linia ___-ciu metrów) wyznacza siê linia przerywana.&
+5&
+7&
+8&
+9&#
+Linie rzutów wolnych (linia 9-ciu metrów) wyznacza siê linia przerywana, równolegla do linii pola bramkowego, w odleg³oœci 3 m od tej linii. D³ugoœæ zarówno odcinków tej linii jak i przerw pomiêdzy nimi wynosi ___ cm (patrz rys. 1).&
+15&
+16&
+17&
+18&#
+W odleg³oœci ___ metrów od tylnej krawêdzi linii bramkowej, na wysokoœci œrodka bramki, wyznaczon¹ jest linia rzutów karnych (linia 7-miu metrów) o d³ugoœci 1 m przebiegaj¹c¹ równolegle do linii bramkowej (patrz rys. 1).&
+5&
+6&
+7&
+8&#
+Linia œrodkowa wyznaczon¹ jest przez po³¹czenie œrodkowych punktów linii ___&
+zmian&
+bramkowych&
+bocznych&
+koñcowych&#
+Linia zmian (czeœæ linii bocznej) dla ka¿dej dru¿yny ci¹gnie siê od linii œrodkowej do punktu oddalonego o ___ metra od tej linii.&
+4,5&
+5&
+5,5&
+4&#
+Stolik dla sekretarza i mierz¹cego czas oraz ³awki w strefie zmian musz¹ byæ usytuowane tak, aby mogli oni widzieæ linie zmian. Stolik powinien byæ usytuowany nieco bli¿ej linii bocznej ni¿ ³awki zmian, ale co najmniej ___ cm na zewn¹trz tej linii.&
+20&
+30&
+50&
+60&#
+Podstawowy czas gry dla dru¿yn mêskich i ¿eñskich w poszczególnych kategoriach wiekowych wynosi:
+- 16-tu lat i starszych 2 x ___ min.&
+20&
+30&
+50&
+60&#
+Podstawowy czas gry dla dru¿yn mêskich i ¿eñskich w poszczególnych kategoriach wiekowych wynosi:
+- od 12-tu do 16-tu lat 2 x ___ min.&
+25&
+30&
+50&
+60&#
+Podstawowy czas gry dla dru¿yn mêskich i ¿eñskich w poszczególnych kategoriach wiekowych wynosi:
+- od 8-miu do 12-tu lat 2 x ___ min.&
+20&
+30&
+50&
+60&#
+Dla wszystkich grup wiekowych czas przerwy w meczu wynosi zazwyczaj ___ min.&
+20&
+15&
+12&
+10&#
+IHF, federacjê kontynentalne i federacjê narodowe maj¹ prawo do stosowania odmiennych regulacji dotycz¹cych czasu przerwy w meczu. Maksymalny czas przerwy w meczu wynosi ___ minut.&
+20&
+15&
+12&
+10&#
+Je¿eli w podstawowym czasie gry mecz zakoñczy siê wynikiem nierozstrzygniêtym, a zachodzi koniecznoœæ wy³onienia zwyciêzcy, zarz¹dzana jest dogrywka, która rozpoczyna siê po up³ywie ___ min. od zakoñczenia podstawowego czasu gry.&
+3&
+5&
+10&
+15&#
+Czas dogrywki wynosi 2 x ___ min., a przerwa pomiêdzy jej czêœciami wynosi 1 min.&
+3&
+5&
+10&
+15&#
+Je¿eli wynik meczu pozostaje nierozstrzygniêty po pierwszej dogrywce, zarz¹dzana jest ponownie dogrywka, która rozpoczyna siê po up³ywie ___ min. od zakoñczenia poprzedniej.&
+5&
+3&
+4&
+2&#
+Je¿eli rzuty karne bêd¹ decydowa³y o wy³onieniu zwyciêzcy, to mog¹ je wykonywaæ zawodnicy, którzy z up³ywem czasu gry ___ wykluczeni lub, zdyskwalifikowani.&
+nie byli&
+mogli byæ&
+byli&
+byli tylko raz podczas meczu wykluczeni&#
+___ decyduj¹, na która bramkê bêd¹ wykonywane rzuty karne.&
+Zawodnicy&
+Sêdziowie&
+Delegaci&
+Bramkarze&#
+Czas gry rozpoczyna siê ___ na wykonanie pierwszego rzutu rozpoczynaj¹cego grê&
+gwizdkiem sêdziego&
+syrena&
+gwizdkiem delegata&
+gwizdkiem sêdziego stolikowego&#
+Je¿eli nie ma mo¿liwoœci u¿ycia oficjalnego zegara boiskowego z automatycznym sygna³em dŸwiêkowym, wówczas mierz¹cy czas pos³ugujê siê ___ i koñczy czas gry sygna³em gwizdka&
+zegarem stolikowym lub stoperem&
+telefonem&
+zegarkiem&
+zegarem stolikowym&
+stoperem&#
+Naruszenie przepisów gry oraz niesportowe zachowanie maj¹ce miejsce przed b¹dŸ równoczesnie z sygna³em automatycznym lub sygna³em gwizdka koñcz¹cym grê (pierwsz¹ lub drug¹ po³owê, dotyczy tak¿e dogrywek), stwierdzone przez sedziów, ___ byæ wyegzekwowane, nawet jeœli wynik³y rzut wolny (zgodny z 13:1) lub rzut karny bêd¹ wykonywane po sygnale koñcz¹cym grê.&
+musz¹&
+nie musz¹&
+mog¹ jeœli zawodnicy wyra¿aj¹ chêci&
+mog¹&#
+Je¿eli w trakcie wykonywania rzutu wolnego lub karnego, b¹dŸ w czasie lotu pi³ki po wykonaniu tych rzutów, rozlegnie siê sygna³ automatyczny lub sygna³ gwizdka koñcz¹cy grê (pierwsz¹ lub drug¹ po³owê, dotyczy tak¿e dogrywek) ___ odpowiedni rzut powtórzyæ.&
+nale¿y&
+nie nale¿y&
+nale¿y jeœli rzut jest w œwiat³o bramki&
+nale¿y za zgod¹ delegata&#
+Je¿eli sêdziowie stwierdzaj¹ wczeœniejsze zakoñczenie pierwszej lub drugiej po³owy meczu (dotyczy tak¿e dogrywek) przez mierz¹cego czas, to ich obowi¹zkiem ___ zatrzymanie dru¿yn na boisku i dogranie pozosta³ego czasu gry.&
+jest&
+nie jest&
+za zgod¹ delegata jest&
+za zgod¹ zawodników jest&#
+Przewinienia pope³nione przez zawodników i osoby towarzysz¹ce w trakcie wykonywania rzutu wolnego lub karnego w okolicznoœciach opisanych w przepisach 2:4-5 podlegaj¹ karom osobistym. Przewinienia te ___ jednak¿e skutkowaæ rzutem wolnym w przeciwn¹ stronê.&
+nie mog¹&
+mog¹&
+musz¹&
+nie musz¹&#
+Zatrzymanie czasu gry jest obowi¹zkowe w nastêpuj¹cych sytuacjach ___&
+na³o¿enia kary wykluczenia lub dyskwalifikacji&
+zawodnik le¿y na parkiecie&
+trener dru¿yny chcê porozmawiaæ z sêdzi¹&
+¿ó³ta kartka dla zawodnika&#
+Zatrzymanie czasu gry jest obowi¹zkowe w nastêpuj¹cych sytuacjach ___&
+przyznania przerwy dla dru¿yn&
+zawodnik le¿y na parkiecie&
+trener dru¿yny chcê porozmawiaæ z sêdzi¹&
+¿ó³ta kartka dla zawodnika&#
+Zatrzymanie czasu gry jest obowi¹zkowe w nastêpuj¹cych sytuacjach ___&
+gwizdka mierz¹cego czas lub delegata na zawody&
+zawodnik le¿y na parkiecie&
+trener dru¿yny chcê porozmawiaæ z sêdzi¹&
+¿ó³ta kartka dla zawodnika&#
+Zatrzymanie czasu gry jest obowi¹zkowe w nastêpuj¹cych sytuacjach ___&
+niezbêdnej konsultacji pomiêdzy sêdziami&
+zawodnik le¿y na parkiecie&
+trener dru¿yny chcê porozmawiaæ z sêdzi¹&
+¿ó³ta kartka dla zawodnika&#
+Naruszenia przepisów w trakcie zatrzymania czasu gry ___ takie same sankcje, jak pope³nione w trakcie gry&
+powoduj¹&
+nie powoduj¹&
+powoduj¹ za nakazem delegata&
+w zale¿noœci od sytuacji powoduj¹&#
+Po zatrzymaniu czasu gry jej wznowienie nastêpuje na sygna³ gwizdka ___&
+sêdziego&
+sêdziego stolikowego&
+delegata&
+sêdziego mierz¹cego czas&#
+Ka¿dy zespó³ ma prawo do wykorzystania ___-minutowej przerwy dla dru¿yny w ka¿dej po³owie podstawowego czasu gry, ale nie w czasie dogrywek&
+1&
+2&
+3&
+1,5&#
+Pi³ka do gry ma ___.&
+pow³okê skórzan¹ lub ze sztucznego tworzywa&
+sztuczn¹&
+skórzan¹&
+pow³okê gumow¹&#
+Pi³ka musi byæ w kszta³cie kulistym, a jej powierzchnia ___ byæ œliska i b³yszcz¹ca&
+nie mo¿e&
+mo¿e&
+musi&
+nie musi&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- ___ – 60 cm i 425 – 475 g (IHF rozmiar 3) dla dru¿yn mêskich w wieku 16-cie lat i starszych,&
+58&
+52&
+55&
+56&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 58 – ___ cm i 425 – 475 g (IHF rozmiar 3) dla dru¿yn mêskich w wieku 16-cie lat i starszych,&
+60&
+66&
+64&
+68&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 58 – 60 cm i ___ – 475 g (IHF rozmiar 3) dla dru¿yn mêskich w wieku 16-cie lat i starszych,&
+425&
+450&
+422&
+424&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 58 – 60 cm i 425 – ___ g (IHF rozmiar 3) dla dru¿yn mêskich w wieku 16-cie lat i starszych,&
+475&
+450&
+480&
+490&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- ___ – 56 cm i 325 – 375 g (IHF rozmiar 2) dla dru¿yn ¿eñskich w wieku 14-cie lat i starszych oraz ch³opców w wieku 12-tu lat do 16-tu lat,&
+54&
+55&
+52&
+53&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 54 – ___ cm i 325 – 375 g (IHF rozmiar 2) dla dru¿yn ¿eñskich w wieku 14-cie lat i starszych oraz ch³opców w wieku 12-tu lat do 16-tu lat,&
+56&
+55&
+58&
+59&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 54 – 56 cm i ___ – 375 g (IHF rozmiar 2) dla dru¿yn ¿eñskich w wieku 14-cie lat i starszych oraz ch³opców w wieku 12-tu lat do 16-tu lat,&
+325&
+320&
+310&
+300&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+- 54 – 56 cm i 325 – ___ g (IHF rozmiar 2) dla dru¿yn ¿eñskich w wieku 14-cie lat i starszych oraz ch³opców w wieku 12-tu lat do 16-tu lat,&
+375&
+380&
+390&
+400&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+___ – 52 cm i 290 – 330 g (IHF rozmiar 1) dla dru¿yn dziewcz¹t w wieku od 8-miu do 14 lat i ch³opców w wieku od 8-miu do 12-tu lat.&
+50&
+48&
+46&
+44&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+50 – ___ cm i 290 – 330 g (IHF rozmiar 1) dla dru¿yn dziewcz¹t w wieku od 8-miu do 14 lat i ch³opców w wieku od 8-miu do 12-tu lat.&
+52&
+56&
+55&
+57&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+50 – 52 cm i ___ – 330 g (IHF rozmiar 1) dla dru¿yn dziewcz¹t w wieku od 8-miu do 14 lat i ch³opców w wieku od 8-miu do 12-tu lat.&
+290&
+300&
+280&
+270&#
+Obwód i ciê¿ar pi³ek u¿ywanych w zawodach poszczególnych kategorii wiekowych powinny byæ nastêpuj¹ce:
+50 – 52 cm i 290 – ___ g (IHF rozmiar 1) dla dru¿yn dziewcz¹t w wieku od 8-miu do 14 lat i ch³opców w wieku od 8-miu do 12-tu lat.&
+330&
+300&
+310&
+320&#
+Rozmiary i waga pi³ek u¿ywanych w zawodach mini-pi³ki rêcznej ___ przedmiotem uregulowañ niniejszych przepisów gry.&
+nie s¹&
+s¹&
+bêd¹&
+nie bêd¹&#
+Do ka¿dego spotkania musz¹ byæ przygotowane co najmniej ___ pi³ki. Musz¹ one spe³niaæ warunki okreœlone w 3:1-2. W czasie gry pi³ka rezerwowa musi byæ natychmiast dostêpna na stoliku sêdziowskim.&
+dwie&
+trzy&
+cztery&
+piêæ&#
+O u¿yciu pi³ki rezerwowej decyduj¹ ___.&
+sêdziowie&
+zawodnicy&
+trenerzy&
+bramkarze&#
+O u¿yciu pi³ki rezerwowej decyduj¹ sêdziowie. Maj¹ oni obowi¹zek wprowadziæ j¹ do gry ___.&
+szybko, bez zbêdnych przerw i unikaj¹c zatrzymania czasu gry&
+po zatrzymaniu czasu&
+po sprawdzeniu przez zawodników&
+po zgodzie trenerów&#
+Dru¿yna sk³ada siê z nie wiêcej ni¿ ___-tu zawodników.&
+16&
+15&
+14&
+12&#
+Na boisku mo¿e przebywaæ jednoczeœnie nie wiêcej ni¿ ___-miu zawodników. Pozostali zawodnicy s¹ zawodnikami rezerwowymi.&
+7&
+6&
+8&
+9&#
+Zawodnik, który uczestniczy w grze jako bramkarz, ___ w dowolnym czasie spotkania staæ siê graczem w polu&
+mo¿e&
+nie mo¿e&
+mo¿e za zgod¹ trenerów&
+mo¿e jeœli ma koszulke na zmiane&#
+Je¿eli dru¿yna gra bez bramkarza to wtedy na boisku mo¿e jednoczeœnie przebywaæ maksymalnie ___-miu zawodników z pola gry.&
+7&
+8&
+9&
+6&#
+Dru¿yna musi przyst¹piæ do gry z co najmniej ___-ma zawodnikami na boisku.&
+5&
+6&
+14&
+16&#
+Dru¿yna mo¿e mieæ nie wiêcej ni¿ ___ osoby towarzysz¹ce.&
+4&
+5&
+6&
+2&#
+Dru¿yna mo¿e mieæ nie wiêcej ni¿ 4 osoby towarzysz¹ce. Osoby te ___ byæ zmienione w trakcie spotkania, a jedna spoœród nich musi byæ wyznaczona jako „osoba odpowiedzialna za dru¿ynê” i wy³¹cznie ona jest upowa¿niona do komunikowania siê z sêdziami: sekretarzem i mierz¹cym czas oraz ewentualnie sêdziami&
+nie mog¹&
+mog¹&
+mog¹ jeœli zgodzi sie dru¿yna przeciwna&
+mog¹ jeœli zgodzi sie delegat&#
+Dru¿yna mo¿e mieæ nie wiêcej ni¿ 4 osoby towarzysz¹ce. Osoby te nie mog¹ byæ zmienione w trakcie spotkania, a ___ spoœród nich musi byæ wyznaczona jako „osoba odpowiedzialna za dru¿ynê” i wy³¹cznie ona jest upowa¿niona do komunikowania siê z sêdziami: sekretarzem i mierz¹cym czas oraz ewentualnie sêdziami&
+jedna&
+dwie&
+trzy&
+cztery&#
+Osoba towarzysz¹ca ___ wchodziæ na boisko w trakcie gry.&
+nie ma prawa&
+ma prawo jeœli zauwa¿y b³¹d sêdziego&
+mo¿e&
+mo¿e za zgod¹ delegata&#
+Po rozpoczêciu gry, „osoba odpowiedzialna za dru¿ynê” musi gwarantowaæ, ¿e w strefie zmian znajduj¹ siê tylko wpisane do protoko³u osoby towarzysz¹ce (maksimum ___) i zawodnicy uprawnieni do gry (zobacz 4:3).&
+4&
+5&
+2&
+1&#
+Zawodnik uprawniony do gry ___, zasadniczo w ka¿dej chwili, wejœæ na boisko przez liniê zmian w³asnej dru¿yny&
+mo¿e&
+nie mo¿e&
+mo¿e jeœli zgodzi sie delegat&
+mo¿e jeœli zgodzi sie trener dru¿yny przeciwnej&#
+Wejœcie zawodników, na boisko i jego opuszczenie mo¿e nast¹piæ ___&
+wy³¹cznie przez liniê zmian w³asnej dru¿yny&
+przez ca³¹ linie boczn¹&
+przez ca³¹ linie koñcow¹&
+obok bramki w³asnej dru¿yny&#
+Z³a zmiana jest karana ___ winnego jej pope³nienia zawodnika.&
+2-minutowym wykluczeniem&
+czerwon¹ kartk¹&
+¿ó³t¹ kartk¹&
+¿ó³t¹ kartk¹ dla trenera i 2-minutowym wykluczeniem&#
+Zawodnik, który jako dodatkowy wszed³ na boisko lub w sposób niezgodny z przepisami bierze udzia³ w grze bêd¹c w strefie zmian, musi byæ ___.&
+ukarany 2-minutowym wykluczeniem&
+ukarany ¿ó³t¹ kartk¹&
+ukarany czerwon¹ kartk¹&
+upomniany s³ownie&#
+Wszyscy zawodnicy z pola gry danej dru¿yny ___, których kombinacja kolorów i deseni musi wyraŸnie ró¿niæ siê od strojów dru¿yny przeciwnej.&
+musz¹ posiadaæ jednakowe stroje&
+nie musz¹ posiadaæ jednakowych stroi&
+musz¹ posiadaæ jednakowe buty i stroje&
+musz¹ posiadaæ jednakowe stroje oraz skarpety&#
+Wszyscy zawodnicy, wystêpuj¹cy w danej dru¿ynie jako bramkarze ___ posiadaæ ten sam kolor strojów ró¿ni¹cy siê od strojów obu dru¿yn i bramkarza(y) dru¿yny przeciwnej&
+musz¹&
+nie musz¹&
+mog¹&
+nie mog¹&#
+Koszulki zawodników powinny byæ oznaczone numerami od 1 do ___&
+99&
+100&
+101&
+50&
+21&#
+Koszulki zawodników powinny byæ oznaczone numerami od 1 do 99, o wysokoœci co najmniej ___ cm na plecach, a 10 cm z przodu. Zawodnik z pola gry, który w czasie gry jest zmieniany i wystêpuje na pozycji bramkarza, musi mieæ ten sam numer graj¹c na obu opozycjach.&
+20&
+10&
+15&
+25&#
+Koszulki zawodników powinny byæ oznaczone numerami od 1 do 99, o wysokoœci co najmniej 20 cm na plecach, a ___ cm z przodu. Zawodnik z pola gry, który w czasie gry jest zmieniany i wystêpuje na pozycji bramkarza, musi mieæ ten sam numer graj¹c na obu opozycjach.&
+20&
+10&
+15&
+25&#
+Kolor numerów ___ wyraŸnie odró¿niaæ siê od koloru i deseni koszulek.&
+musi&
+nie musi&
+mo¿e&
+nie mo¿e&#
+Zawodnicy ___ w czasie gry u¿ywaæ obuwie sportowe.&
+musz¹&
+nie musz¹&
+mog¹&
+nie mog¹&#
+Opaska na g³owê, chustki na g³owê, opaska kapitana dru¿yny, s¹ dozwolone, ___&
+o ile wykonane s¹ z miêkkiego i elastycznego materia³u.&
+o ile zgodzi sie delegat.&
+o ile zgodzi sie trener dru¿yny przeciwnej.&
+bez wymogów&#
+Je¿eli zawodnik krwawi, ma œlady krwi na ciele lub stroju, ___ natychmiast i dobrowolnie opuœciæ boisko (przez liniê zmian) w celu zatrzymania krwawienia, zabezpieczenia rany i oczyszczenia œladów krwi.&
+musi&
+mo¿e&
+musi jeœli zgodzi siê trener przeciwników&
+musi jeœli zgodzi siê delegat&#
+Po otrzymaniu opieki medycznej na boisku, zawodnik musi natychmiast opuœciæ boisko. Zawodnik ten mo¿e ponownie wejœæ na boisko dopiero po ___ ataku jego dru¿yny&
+trzecim&
+czwartym&
+pi¹tym&
+drugim&#
+Bramkarzowi wolno: ___&
+w czasie obrony bramki, bêd¹c w polu bramkowym, dotykaæ pi³ki ka¿d¹ czêœci¹ cia³a;&
+zagra¿aæ zawodnikowi dru¿yny przeciwnej w czasie obrony bramki&
+dotykaæ pi³kê le¿¹c¹ lub tocz¹c¹ siê poza polem bramkowym, bêd¹c jednoczeœnie w tym polu&
+wprowadzaæ pi³kê do pola bramkowego, je¿eli toczy siê ona lub le¿y poza tym polem&#
+Bramkarzowi wolno ___&
+poruszaæ siê w obrêbie pola bramkowego bez ograniczeñ dotycz¹cych zawodników z pola gry nie wolno mu jednak¿e opóŸniaæ wykonania rzutu od bramki&
+powracaæ z pola gry do pola bramkowego z pi³k¹&
+dotykaæ podudziem lub stop¹ pi³kê, która zmierza w kierunku pola gry&
+dotykaæ pi³kê le¿¹c¹ lub tocz¹c¹ siê poza polem bramkowym, bêd¹c jednoczeœnie w tym polu&#
+Bramkarzowi wolno___&
+opuœciæ pole bramkowe z pi³k¹, o ile nie by³a przez niego opanowana, i zagrywaæ ni¹ w polu gry;&
+zagra¿aæ zawodnikowi dru¿yny przeciwnej w czasie obrony bramki&
+dotykaæ pi³kê le¿¹c¹ lub tocz¹c¹ siê poza polem bramkowym, bêd¹c jednoczeœnie w tym polu&
+wprowadzaæ pi³kê do pola bramkowego, je¿eli toczy siê ona lub le¿y poza tym polem&#
+Bramkarzowi nie wolno:___&
+zagra¿aæ zawodnikowi dru¿yny przeciwnej w czasie obrony bramki&
+opuœciæ pole bramkowe z pi³k¹, o ile nie by³a przez niego opanowana, i zagrywaæ ni¹ w polu gry;&
+w czasie obrony bramki, bêd¹c w polu bramkowym, dotykaæ pi³ki ka¿d¹ czêœci¹ cia³a;&
+poruszaæ siê w obrêbie pola bramkowego bez ograniczeñ dotycz¹cych zawodników z pola gry&#
+Bramkarzowi nie wolno:___&
+wprowadzaæ pi³kê do pola bramkowego, je¿eli toczy siê ona lub le¿y poza tym polem&
+opuœciæ pole bramkowe z pi³k¹, o ile nie by³a przez niego opanowana, i zagrywaæ ni¹ w polu gry;&
+w czasie obrony bramki, bêd¹c w polu bramkowym, dotykaæ pi³ki ka¿d¹ czêœci¹ cia³a;&
+poruszaæ siê w obrêbie pola bramkowego bez ograniczeñ dotycz¹cych zawodników z pola gry&#
+Bramkarzowi nie wolno:___&
+powracaæ z pola gry do pola bramkowego z pi³k¹&
+opuœciæ pole bramkowe z pi³k¹, o ile nie by³a przez niego opanowana, i zagrywaæ ni¹ w polu gry;&
+w czasie obrony bramki, bêd¹c w polu bramkowym, dotykaæ pi³ki ka¿d¹ czêœci¹ cia³a;&
+poruszaæ siê w obrêbie pola bramkowego bez ograniczeñ dotycz¹cych zawodników z pola gry&#
+Bramkarzowi nie wolno:___&
+dotykaæ podudziem lub stop¹ pi³kê, która zmierza w kierunku pola gry&
+opuœciæ pole bramkowe z pi³k¹, o ile nie by³a przez niego opanowana, i zagrywaæ ni¹ w polu gry;&
+w czasie obrony bramki, bêd¹c w polu bramkowym, dotykaæ pi³ki ka¿d¹ czêœci¹ cia³a;&
+poruszaæ siê w obrêbie pola bramkowego bez ograniczeñ dotycz¹cych zawodników z pola gry&#
+W polu bramkowym mo¿e poruszaæ siê ___&
+tylko bramkarz&
+tylko sêdzia&
+jeden zawodnik z pola&
+bramkarz z jednej dru¿yny i bramkarz z drugiej&#
+Je¿eli zawodnik z pola gry naruszy pole bramkowe, to sêdziowie winni podj¹æ nastêpuj¹ce decyzje:
+a) ___ – je¿eli zawodnik z pola gry dru¿yny bêd¹cej w posiadaniu pi³ki narusza pole bramkowe maj¹c pi³kê lub, gdy nie posiada pi³ki, a naruszaj¹c pole bramkowe osi¹ga przez to korzyœæ (12:1);&
+rzut od bramki&
+rzut wolny&
+rzut z lini bocznej&
+rzut sêdziowski&#
+Je¿eli zawodnik z pola gry naruszy pole bramkowe, to sêdziowie winni podj¹æ nastêpuj¹ce decyzje:
+b) ___ – je¿eli zawodnik z pola gry dru¿yny broni¹cej, naruszaj¹c pole bramkowe osi¹ga przez to korzyœæ, ale nie przerywa sytuacji pewnej do zdobycia bramki (13:1b, zobacz te¿ 8:7f);&
+rzut wolny&
+rzut od bramki&
+rzut karny&
+rzut z lini bocznej&#
+Je¿eli zawodnik z pola gry naruszy pole bramkowe, to sêdziowie winni podj¹æ nastêpuj¹ce decyzje:
+c) ___ – je¿eli naruszaj¹c pole bramkowe zawodnik z pola gry dru¿yny broni¹cej przerywa sytuacjê pewn¹ do zdobycia bramki (14:1a). W przypadku tego przepisu „naruszenie pola bramkowego” nie oznacza dotykania przez obroñcê linii pola bramkowego, ale wyraŸne wejœcie do pola bramkowego przez obroñcê.&
+rzut karny&
+rzut wolny&
+rzut z lini bocznej&
+rzut sêdziowski&#
+Naruszenie pola bramkowego nie jest karane je¿eli: ___&
+zawodnik po zagraniu pi³ki znajdzie siê w polu bramkowym, a przeciwnik z tego powodu nie zosta³ poszkodowany;&
+zawodnik po zagraniu pi³ki znajdzie siê w polu bramkowym&
+zawodnik tylko przejdzie przez pole bramkowe w czasie obrony&
+zawodnik, jednej z dru¿yn, znajdzie siê w polu bramkowym bez pi³ki i uzyska z tego tytu³u korzyœæ;&#
+Uznaje siê, ¿e pi³ka jest „poza gr¹”, gdy ___&
+bramkarz kontroluje rêkami pi³kê w polu bramkowym&
+pi³ka toczy siê w polu bramkowym do lini bocznej&
+pi³ka toczy siê w polu bramkowym do œrodka boiska&
+pi³ka zosta³a dotkniêta przez bramkarza&#
+___ jest dotykanie pi³ki, gdy znajduje siê ona w powietrzu nad polem bramkowym,&
+Dozwolone&
+Nie dozwolone&
+Dozwolone tylko dla broni¹cych&
+Dozwolone tylko dla atakuj¹cych&#
+Zezwala siê:___&
+przy u¿yciu d³oni (otwartych lub zaciœniêtych), r¹k, g³owy, tu³owia, kolan i ud – pi³kê rzucaæ, chwytaæ, zatrzymywaæ, pchaæ, uderzaæ i pi¹stkowaæ;&
+dotykaæ pi³ki podudziem lub stop¹, poza sytuacj¹ kiedy przeciwnik rzuci³ pi³k¹ w zawodnika&
+po opanowaniu pi³ki, dotykaæ jej wiêcej ni¿ jeden raz, o ile uprzednio nie dotknê³a pod³o¿a,&
+koz³owaæ pi³kê bêd¹c poza boiskiem&#
+Zezwala sie ___&
+trzymaæ pi³kê, nie d³u¿ej jednak ni¿ przez 3 sekundy, równie¿ wtedy gdy le¿y ona na pod³o¿u&
+dotykaæ pi³ki podudziem lub stop¹, poza sytuacj¹ kiedy przeciwnik rzuci³ pi³k¹ w zawodnika&
+po opanowaniu pi³ki, dotykaæ jej wiêcej ni¿ jeden raz, o ile uprzednio nie dotknê³a pod³o¿a,&
+koz³owaæ pi³kê bêd¹c poza boiskiem&#
+___, je¿eli pi³ka dotknie sêdziego na boisku.&
+Gra toczy siê dalej&
+Dyktuje siê rzut sêdziowski&
+Dyktuje siê rzut wolny dla dru¿yny która ostatnio mia³a pi³kê&
+Dyktuje siê rzut od bramki dla dru¿yny atakuj¹cej&#
+Przy stwierdzeniu przez sêdziów gry pasywnej u¿ywaj¹ oni sygna³u ostrzegawczego. Jego zastosowanie ma na celu unikniêcie odebrania pi³ki dru¿ynie bêd¹cej w jej posiadaniu i danie tej dru¿ynie mo¿liwoœci zmiany sposobu atakowania. Je¿eli po sygnale ostrzegawczym dru¿yna kontynuuje pasywny sposób atakowania sêdziowie mog¹ w ka¿dym momencie odgwizdaæ grê pasywn¹. Je¿eli dru¿yna atakuj¹ca nie wykona rzutu na bramkê po maksymalnie ___-ciu podaniach wówczas nale¿y podyktowaæ przeciwko niej rzut wolny&
+6&
+5&
+7&
+8&#
+Wolno ___&
+otwart¹ d³oni¹ wygarniaæ pi³kê z rêki przeciwnika;&
+wyrywaæ lub wybijaæ pi³kê z r¹k przeciwnika;&
+trzymaæ przeciwnika (cia³o lub strój) nawet, gdy jest on w stanie kontynuowaæ grê;&
+wbiegaæ i wskakiwaæ w przeciwnika.&#
+Wolno ___&
+u¿ywaæ tu³owia w celu blokowania przeciwnika w czasie walki o zajêcie pozycji;&
+wyrywaæ lub wybijaæ pi³kê z r¹k przeciwnika;&
+trzymaæ przeciwnika (cia³o lub strój) nawet, gdy jest on w stanie kontynuowaæ grê;&
+wbiegaæ i wskakiwaæ w przeciwnika.&#
+Nie wolno ___&
+wyrywaæ lub wybijaæ pi³kê z r¹k przeciwnika;&
+u¿ywaæ tu³owia w celu blokowania przeciwnika w czasie walki o zajêcie pozycji;&
+otwart¹ d³oni¹ wygarniaæ pi³kê z rêki przeciwnika;&
+u¿ywaæ ugiêtych r¹k w celu uzyskania kontaktu z przeciwnikiem&#
+Nie wolno ___&
+trzymaæ przeciwnika (cia³o lub strój) nawet, gdy jest on w stanie kontynuowaæ grê;&
+u¿ywaæ tu³owia w celu blokowania przeciwnika w czasie walki o zajêcie pozycji;&
+otwart¹ d³oni¹ wygarniaæ pi³kê z rêki przeciwnika;&
+u¿ywaæ ugiêtych r¹k w celu uzyskania kontaktu z przeciwnikiem&#
+Nie wolno ___&
+wbiegaæ i wskakiwaæ w przeciwnika.&
+u¿ywaæ tu³owia w celu blokowania przeciwnika w czasie walki o zajêcie pozycji;&
+otwart¹ d³oni¹ wygarniaæ pi³kê z rêki przeciwnika;&
+u¿ywaæ ugiêtych r¹k w celu uzyskania kontaktu z przeciwnikiem&#
+Niektóre niesportowe zachowania s¹ tak powa¿ne, ¿e musz¹ byæ karane dyskwalifikacj¹.
+Przyk³adami takich zachowañ s¹:___&
+odrzucanie lub uderzanie pi³ki w sposób demonstracyjny po decyzji sêdziów;&
+spokojna rozmowa z sêdzi¹&
+rozmowa z przeciwnikiem&
+picie wody podczas trwania meczu zawodnika na boisku&#
+Niektóre niesportowe zachowania s¹ tak powa¿ne, ¿e musz¹ byæ karane dyskwalifikacj¹.
+Przyk³adami takich zachowañ s¹:___&
+demonstracyjne powstrzymywanie siê bramkarza od obrony rzutu karnego;&
+spokojna rozmowa z sêdzi¹&
+rozmowa z przeciwnikiem&
+picie wody podczas trwania meczu zawodnika na boisku&#
+Niektóre niesportowe zachowania s¹ tak powa¿ne, ¿e musz¹ byæ karane dyskwalifikacj¹.
+Przyk³adami takich zachowañ s¹:___&
+celowe rzucenie pi³k¹ w przeciwnika podczas zatrzymania gry;&
+spokojna rozmowa z sêdzi¹&
+rozmowa z przeciwnikiem&
+picie wody podczas trwania meczu zawodnika na boisku&#
+Niektóre niesportowe zachowania s¹ tak powa¿ne, ¿e musz¹ byæ karane dyskwalifikacj¹.
+Przyk³adami takich zachowañ s¹:___&
+trafienie pi³k¹ przez wykonawcê rzutu karnego w g³owê bramkarza, który nie wykonuje ruchu g³ow¹ w kierunku pi³ki;&
+spokojna rozmowa z sêdzi¹&
+rozmowa z przeciwnikiem&
+picie wody podczas trwania meczu zawodnika na boisku&#
+Niektóre niesportowe zachowania s¹ tak powa¿ne, ¿e musz¹ byæ karane dyskwalifikacj¹.
+Przyk³adami takich zachowañ s¹:___&
+zrewan¿owanie siê przeciwnikowi odruchowym uderzeniem po uprzednim faulu przeciwnika.&
+spokojna rozmowa z sêdzi¹&
+rozmowa z przeciwnikiem&
+picie wody podczas trwania meczu zawodnika na boisku&#
+Bramka jest zdobyta, gdy ___ poza liniê bramkow¹ do wewn¹trz bramki (rys. 4), a zawodnik wykonuj¹cy rzut, którykolwiek z jego partnerów lub osoba towarzysz¹ca nie naruszy³ w tym czasie przepisów gry.&
+pi³ka ca³ym swoim obwodem przejdzie&
+pi³ka w po³owie obwodu przejdzie&
+pi³ka w 1/4 obwodu przejdzie&
+pi³ka w 1/3 obwodu przejdzie&#
+Sêdzia bramkowy potwierdza ___ krótkimi gwizdkami i sygnalizacj¹ nr 12, ¿e bramka zosta³a zdobyta.&
+dwoma&
+trzema&
+czterema&
+jednym&#
+Je¿eli sêdziowie zdecydowali o zdobyciu bramki i dali sygna³ gwizdkiem na wykonanie rzutu rozpoczynaj¹cego grê, bramka zdobyta uprzednio ___ byæ anulowana.&
+nie mo¿e&
+mo¿e&
+mo¿e za zgod¹ delegata&
+mo¿e jeœli sêdzia stolikowy zobaczy³ nieprawid³owoœæ&#
+W chwili rozpoczêcia ka¿dej po³owy gry (lub dogrywki) wszyscy zawodnicy ___.&
+musz¹ znajdowaæ siê na swoich po³owach boiska&
+mog¹ znajdowaæ sie gdzie chc¹&
+mog¹ znajdowaæ sie poza boiskiem&
+mog¹ znajdowaæ siê w swoich polach bramkowych&#
+Zawodnik wykonuj¹cy rzut z linii bocznej musi staæ jedn¹ stop¹ ___ i musi pozostaæ w tej pozycji dopóki pi³ka nie opuœci jego d³oni .&
+na linii bocznej&
+za lini¹ boczn¹ za boiskiem&
+za lini¹ boczn¹ w boisku&
+co najmniej pó³ mtera za lini¹ boczn¹&#
+W czasie wykonywania rzutu z linii bocznej zawodnicy dru¿yny przeciwnej musz¹ znajdowaæ siê w odleg³oœci, co najmniej ___ m od zawodnika wykonuj¹cego rzut&
+3&
+2&
+1&
+5&#
+Rzut karny winien byæ wykonany w kierunku bramki w ci¹gu ___ sekund po sygnale gwizdka sêdziego&
+3&
+5&
+2&
+1&#
+Zawodnik wykonuj¹cy rzut karny musi zaj¹æ pozycjê poza lini¹ rzutów karnych (7-metrów), nie dalej ni¿ ___ metr poza t¹ lini¹&
+1&
+2&
+3&
+5&#
+___ jest zmiana bramkarzy, gdy zawodnik jest gotowy do wykonania rzutu karnego stoj¹c w prawid³owej pozycji z pi³k¹ w rêku.&
+Niedozwolona&
+Dozwolona&
+Dozwolona za zgod¹ zawodnika rzucaj¹cego&
+Dozwolona jeœli bramkarz jest ju¿ obok ³awki zmian&#
+Upomnienie musi byæ udzielone za:___&
+faule podlegaj¹ce karaniu progresywnemu&
+szczególnie niesportowe zachowanie zawodnika&
+faule opisane w 8:4&
+faule opisane w 8:3&#
+Sêdziowie musz¹ pokazaæ upomnienie winnemu zawodnikowi lub osobie towarzysz¹cej oraz sêdziom: ___ i mierz¹cemu czas przy u¿yciu ¿ó³tej kartki trzymanej w wysoko uniesionej rêce.&
+sekretarzowi&
+delegatowi&
+trenerom obu dru¿yn&
+kierownikom dru¿yn&#
+Zawody prowadzi ___ równorzêdnych sêdziów, którym pomagaj¹: sekretarz i mierz¹cy czas.&
+dwóch&
+trzech&
+czterech&
+piêciu&#
+Sêdziowie sprawuj¹ nadzór nad zachowaniem siê zawodników i osób towarzysz¹cych dru¿ynie od chwili wejœcia do chwili ___.&
+opuszczenia miejsca zawodów&
+koñca meczu&
+kiedy opuszcz¹ parkiet&
+kiedy podziêkuj¹ trenerom&#
+Je¿eli obaj sêdziowie sygnalizuj¹ przekroczenie przepisów gry przez tê sam¹ dru¿ynê, a ich decyzje s¹ ró¿ne, to obowi¹zuj¹ca jest decyzja, ___&
+której konsekwencje s¹ ostrzejsze.&
+pierwszego w protokole sêdziego&
+drugiego w protokole sêdziego&
+pierwszego sêdziego który zagwizda³&#
+___ kolor strojów jest zasadniczo przeznaczony dla sêdziów.&
+Czarny&
+Czerwony&
+¯ó³ty&
+Fioletowy&#
+Sêdziowie i delegat ___ u¿ywaæ do porozumiewania siê sprzêtu elektronicznego.&
+mog¹&
+nie mog¹&
+mog¹ za zgod¹ trenerów&
+mog¹ za zgod¹ zawodników&#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

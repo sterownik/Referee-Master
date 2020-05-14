@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/icone"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <ImageView
+            android:id="@+id/iconee"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:background="@color/blekit"
+            android:layout_height="200dp"
+            android:src="@drawable/gwiizdekczarny"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:textColor="@color/czarny"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            android:background="@color/blekit"
+            android:text="Referee Master"
+            android:layout_below="@id/iconee"
+            />
+        <ImageView
+            android:id="@+id/ustawienia"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            android:src="@drawable/zebtaki"
+
+
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/log"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@id/icone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/refere"
+            android:layout_width="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="100dp"
+            android:background="@drawable/textview_border"
+            android:layout_marginBottom="50dp"
+            android:padding="10dp"
+            android:src="@drawable/ikonagracza"
+            />
+        <EditText
+            android:layout_below="@id/refere"
+            android:id="@+id/login"
+            android:textSize="25sp"
+            android:background="@drawable/textview_border"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:hint="Login"
+            android:layout_height="55dp" />
+        <EditText
+            android:id="@+id/haslo"
+            android:background="@drawable/textview_border"
+            android:layout_below="@id/login"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="25sp"
+            android:inputType="textPassword"
+            android:hint="Hasło"
+            android:layout_width="match_parent"
+            android:layout_height="55dp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/przyciski"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/przycisklogowania"
+            android:layout_width="170dp"
+            android:text="Zaloguj"
+            android:textSize="17sp"
+            android:textColor="#f2f5df"
+            android:layout_alignParentRight="true"
+            android:background="@color/colorPrimary"
+            android:layout_height="48dp" />
+        <TextView
+            android:layout_marginTop="11dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/przycisklogowania"
+            android:id="@+id/bezkonta"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="Nie masz konta? Kliknij"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+</ScrollView>
+</RelativeLayout>

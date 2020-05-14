@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="czerwony">#ee2610</color>
+    <color name="colormain">#df5b3b</color>
+    <color name="blekit">#4169e1</color>
+    <color name="zloty">#fcc72d</color>
+    <color name="czarny">#000</color>
+    <color name="szlachetny">#6e80e7</color>
+    <color name="bialy">#FFFFFF</color>
+    <color name="siwy">#bdbdbd</color>
+</resources>

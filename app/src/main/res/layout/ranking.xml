@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rankingi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/nazwa"
+        android:text="Nazwa"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+    <TextView
+        android:id="@+id/poziom"
+        android:layout_margin="10dp"
+
+        android:layout_toRightOf="@id/nazwa"
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:text="Poziom"
+        android:layout_marginTop="7dp"
+        android:layout_height="wrap_content" />
+
+
+
+    <ImageView
+        android:id="@+id/pierwsza"
+        android:src="@drawable/pierwszaikonagry"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@id/poziom"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+    <ImageView
+        android:id="@+id/druga"
+        android:src="@drawable/truefalse"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@id/pierwsza"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+    <ImageView
+        android:id="@+id/trzecia"
+        android:src="@drawable/trzeciagra"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@id/druga"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+
+    <ImageView
+        android:id="@+id/czwarta"
+        android:layout_margin="10dp"
+        android:src="@drawable/awardcup"
+        android:layout_toRightOf="@id/trzecia"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+
+        <ListView
+            android:id="@+id/listarankingowa"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/czwarta" />
+
+        <ListView
+            android:id="@+id/listapoziom"
+            android:layout_toRightOf="@id/listarankingowa"
+            android:layout_below="@id/czwarta"
+            android:layout_width="86dp"
+            android:layout_height="match_parent" />
+        <ListView
+            android:id="@+id/listapierwszagra"
+            android:layout_toRightOf="@id/listapoziom"
+            android:layout_below="@id/czwarta"
+            android:layout_width="70dp"
+            android:layout_height="match_parent" />
+
+        <ListView
+            android:id="@+id/listadrugagra"
+            android:layout_toRightOf="@id/listapierwszagra"
+            android:layout_below="@id/czwarta"
+            android:layout_width="62dp"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

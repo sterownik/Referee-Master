@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/glowna"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bialy"
+    android:orientation="vertical"
+    tools:context=".Games">
+
+
+
+    <RelativeLayout
+        android:id="@+id/relexp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+
+        <ProgressBar
+            android:id="@+id/exp"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:progressTint="@color/blekit" />
+
+        <TextView
+            android:id="@+id/progressexp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+
+            android:text=""
+            android:textStyle="bold"
+            android:textColor="@color/bialy"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/icons"
+        android:layout_width="match_parent"
+        android:layout_weight="0.25"
+        android:layout_height="0dp">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/gwizdekfajny" />
+
+        <TextView
+            android:id="@+id/nazwa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/icon"
+            android:text="Sterownik"
+            android:textColor="@color/blekit"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/poziomuz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nazwa"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/icon"
+            android:text="Poziom 1"
+            android:textStyle="italic" />
+
+        <ImageButton
+            android:id="@+id/pokazranking"
+            android:layout_alignParentTop="true"
+            android:layout_width="70dp"
+            android:layout_height="55dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@id/klejnot"
+
+            android:background="@drawable/rectangle"
+            android:src="@drawable/rank" />
+        <TextView
+            android:layout_width="70dp"
+            android:layout_below="@id/pokazranking"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="15dp"
+            android:textSize="13dp"
+            android:gravity="center"
+
+            android:textColor="@color/blekit"
+            android:layout_centerVertical="true"
+            android:text="Wyniki"
+            android:layout_toLeftOf="@id/klejnot"
+            android:layout_height="wrap_content" />
+
+
+
+        <ImageButton
+            android:id="@+id/pokazintro"
+            android:layout_alignParentTop="true"
+            android:layout_width="70dp"
+            android:layout_height="55dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@id/pokazranking"
+
+            android:background="@drawable/rectangle"
+            android:src="@drawable/tutorialikona" />
+        <TextView
+            android:layout_width="70dp"
+            android:layout_below="@id/pokazintro"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="100dp"
+            android:textSize="13dp"
+            android:gravity="center"
+
+            android:textColor="@color/blekit"
+            android:layout_centerVertical="true"
+            android:text="Samouczek"
+            android:layout_toLeftOf="@id/klejnot"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/liczbaklejnotow"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/klejnot"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:text="12"
+            android:textColor="@color/zloty"
+            android:textSize="13dp" />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:id="@+id/klejnot"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/wkleic" />
+
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/pierwsze_gry"
+        android:layout_weight="0.60"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <LinearLayout
+            android:id="@+id/pierwszagra"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/rectangle"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.70"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/pierwszaikonagry" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+
+                android:text="REGULAMINOWY KRÓL"
+                android:textColor="@color/bialy"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/textview_border_three" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_weight=".20"
+                android:layout_height="0dp">
+
+                <TextView
+                    android:id="@+id/txtgames1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Rekord "
+                    android:padding="2dp"
+                    android:textColor="@color/colormain"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/punktypierwszagra"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/txtgames1"
+                    android:text=" 86"
+                    android:textColor="@color/colormain"
+                    android:textStyle="bold" />
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="2dp"
+                    android:src="@drawable/ludzik" />
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.04"
+            android:background="@color/bialy" />
+
+        <LinearLayout
+            android:id="@+id/graaaaa"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/rectangle">
+
+            <LinearLayout
+                android:id="@+id/drugragra"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="4dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.70"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/truefalse" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="PRAWDA CZY FAŁSZ?"
+                    android:textColor="@color/bialy"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginLeft="5dp"
+
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/textview_border_three" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight=".20"
+                    android:layout_height="0dp">
+
+                    <TextView
+                        android:id="@+id/txtgames2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="Rekord "
+                        android:padding="2dp"
+                        android:textColor="@color/colormain"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/punktydrugagra"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/txtgames2"
+                        android:text=" 86"
+                        android:textColor="@color/colormain"
+                        android:textStyle="bold" />
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:padding="2dp"
+                        android:src="@drawable/ludzik" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/drugiegry"
+        android:layout_weight="0.60"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:id="@+id/trzeciagra"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/rectangle"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.70"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/trzeciagra" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="SALA TRENINGOWA"
+                android:textColor="@color/bialy"
+                android:textSize="17dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginLeft="5dp"
+
+                android:layout_marginRight="5dp"
+                android:background="@drawable/textview_border_three" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_weight=".20"
+                android:layout_height="0dp">
+
+                <TextView
+                    android:id="@+id/txtgames3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Rekord "
+                    android:padding="2dp"
+                    android:textColor="@color/colormain"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/punktytrzeciagratxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/txtgames3"
+                    android:text=" 86"
+                    android:textColor="@color/colormain"
+                    android:textStyle="bold" />
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="2dp"
+                    android:src="@drawable/ludzik" />
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1">
+
+
+            <LinearLayout
+                android:id="@+id/czwarta_gra"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="4dp"
+                android:layout_weight="1"
+                android:background="@drawable/rectangle"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ikonaegzamin"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.70"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/awardcup" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="OSTATECZNY EGZAMIN"
+                    android:textColor="@color/bialy"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginLeft="5dp"
+
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/textview_border_three" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight=".20"
+                    android:layout_height="0dp">
+
+                    <TextView
+                        android:id="@+id/txtgames4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="Rekord "
+                        android:padding="2dp"
+                        android:textColor="@color/zloty"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/punktyczwartagratxt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/txtgames4"
+                        android:text=" 86"
+                        android:textColor="@color/zloty"
+                        android:textStyle="bold" />
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:padding="2dp"
+                        android:src="@drawable/zlotozloto" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_weight="0.10"
+        android:id="@+id/wylogowywanie"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/czerwony"
+        android:textColor="@color/bialy"
+        android:text="Wyloguj sie" />
+
+
+</LinearLayout>

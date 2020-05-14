@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <RelativeLayout
+        android:id="@+id/icone"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/iconeapp"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/log"
+        android:layout_margin="10dp"
+        android:layout_below="@id/icone"
+        android:layout_width="match_parent"
+        android:layout_height="170dp">
+        <EditText
+            android:id="@+id/login"
+            android:textSize="25sp"
+            android:background="@drawable/textview_border"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:hint="Login"
+            android:layout_height="67dp" />
+        <EditText
+            android:id="@+id/haslo"
+            android:background="@drawable/textview_border"
+            android:layout_below="@id/login"
+            android:padding="10dp"
+            android:textSize="25sp"
+            android:inputType="textPassword"
+            android:hint="Hasło"
+            android:layout_width="match_parent"
+            android:layout_height="67dp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/przyciski"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/przycisklogowania"
+            android:layout_width="170dp"
+            android:text="Zaloguj"
+            android:textSize="17sp"
+            android:textColor="#f2f5df"
+            android:layout_alignParentRight="true"
+            android:background="@color/colorPrimary"
+            android:layout_height="48dp" />
+        <TextView
+            android:layout_marginTop="11dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/przycisklogowania"
+            android:id="@+id/bezkonta"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="Nie masz konta? Kliknij"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bialy"
+    tools:context=".Quizowanie" >
+
+
+
+    <TextView
+        android:id="@+id/odliczanie"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:textSize="40dp"
+
+        android:textColor="@color/czarny" />
+
+    <RelativeLayout
+        android:id="@+id/calagra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/rel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical">
+
+                <ProgressBar
+                    android:id="@+id/czas"
+                    style="@android:style/Widget.ProgressBar.Horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:maxHeight="20dp"
+                    android:minHeight="20dp"
+                    android:progressTint="@color/blekit" />
+
+                <TextView
+                    android:id="@+id/punktylay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/czas"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bottomblue"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/blekit"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/iloscpytan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/czas"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bottomczarne"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/czarny"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/pytanie"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_below="@id/punktylay"
+                    android:background="@drawable/textview_border2"
+                    android:padding="7dp"
+                    android:text="TextView"
+                    android:textColor="@color/blekit"
+                    android:textSize="23dp" />
+
+                <CheckBox
+                    android:id="@+id/pierwszy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/pytanie"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/drugi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/pierwszy"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/trzeci"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugi"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/czwarty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trzeci"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/piaty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/czwarty"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/szosty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/piaty"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/siodmy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/szosty"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/osmy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/siodmy"
+                    android:padding="16dp"
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+                    android:textSize="15dp" />
+
+                <CheckBox
+                    android:id="@+id/dziewiaty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/osmy"
+                    android:padding="16dp"
+
+                    android:text="CheckBox"
+                    android:textColor="@color/blekit"
+                    android:textSize="15dp" />
+
+
+            </RelativeLayout>
+
+
+        </ScrollView>
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</RelativeLayout>

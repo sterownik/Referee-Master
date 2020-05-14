@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="5dp"
+    android:paddingBottom="30dp"
+    android:paddingRight="5dp">
+
+    <TextView
+        android:id="@+id/tekstwynik"
+        android:text="Tablica Wyników"
+        android:textSize="28dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/textview_border"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_below="@id/tekstwynik"
+        android:layout_marginBottom="20dp"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+    <TableLayout
+        android:numColumns="6"
+
+        android:id="@+id/listarankingowa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </TableLayout>
+        </RelativeLayout>
+
+
+
+    </ScrollView>
+
+</RelativeLayout>

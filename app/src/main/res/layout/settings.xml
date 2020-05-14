@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/dzwiek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dźwięk" />
+
+    <CheckBox
+        android:id="@+id/wibracje"
+        android:layout_below="@id/dzwiek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wibracje" />
+</RelativeLayout>
